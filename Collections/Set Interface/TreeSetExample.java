@@ -1,7 +1,7 @@
 
 import java.util.TreeSet;
 //Stores unique elements in sorted order
-// Hence take O(log n) 
+// Hence take  O(log n) 
 
 public class TreeSetExample {
     public static void main(String[] args) {
